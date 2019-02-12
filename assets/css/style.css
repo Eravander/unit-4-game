@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/background.jpg");
+}
+
+#instructions{
+    background-color: antiquewhite;
+}
+
+h2{
+    color: antiquewhite;
+}
